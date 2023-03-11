@@ -3,3 +3,4 @@ sklearn
 streamlit 
 nltk
 scikit-learn
+pipeline
